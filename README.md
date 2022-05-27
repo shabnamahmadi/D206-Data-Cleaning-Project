@@ -1,4 +1,4 @@
-# data-projects-
+# D206-Project-Assessment
 
 Attached you will find the Perfomance Assessment for the D206 Data Cleaning course. The project was completed in Juypter Notebook and is in the chronological order 
 the rubric.
